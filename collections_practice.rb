@@ -3,3 +3,6 @@ def sort_array_asc(array)
     a <=> b 
   end
 end
+
+def sort_array_chair_count(array)
+  
