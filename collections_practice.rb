@@ -1,4 +1,8 @@
 def sort_array_asc(array)
-  array.sort do |a, b|
+ new_array = []
+ counter = 0
+  while array < 1
+  
+  sort do |a, b|
   a <=> b 
 end
