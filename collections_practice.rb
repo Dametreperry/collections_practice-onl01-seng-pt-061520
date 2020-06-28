@@ -4,5 +4,5 @@ def sort_array_asc(array)
   end
 end
 
-def sort_array_chair_count(array)
+def sort_array_chair_desc(array)
   
