@@ -32,6 +32,8 @@ def kesha_maker(array)
       character[2] = "$"
     end
 end
+
+def find_a
   
 def sum_array(array)
   array.inject(:+)
